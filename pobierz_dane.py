@@ -1,3 +1,5 @@
+# Pobiera roczne dywidendy spółek z Yahoo Finance i zapisuje do CSV
+
 import yfinance as yf
 import pandas as pd
 
